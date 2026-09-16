@@ -1,11 +1,11 @@
 import { useEffect, useMemo, useState } from 'react'
 
 const navItems = [
-  { label: 'Home', href: '#home' },
-  { label: 'Technologies', href: '#technologies' },
-  { label: 'Projects', href: '#projects' },
-  { label: 'About', href: '#about' },
-  { label: 'Contact', href: '#contact' },
+  { label: 'Home', href: '' },
+  { label: 'Technologies', href: '' },
+  { label: 'Projects', href: '' },
+  { label: 'About', href: '' },
+  { label: 'Contact', href: '' },
 ]
 
 const categoryClass = {
