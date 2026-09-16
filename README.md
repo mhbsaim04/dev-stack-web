@@ -15,6 +15,7 @@ Features:
 3) Loading state while JSON is fetched
 
 
+React questions and answers:
 
 1. What is JSX, and why is it used in React?
 Ans:
