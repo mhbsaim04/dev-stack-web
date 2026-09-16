@@ -119,7 +119,7 @@ function Hero() {
           <div className="hero-actions">
             <a
               className="btn btn-gradient btn-primary"
-              href="#technologies"
+              href=""
             >
               Explore Technologies
             </a>
@@ -378,22 +378,22 @@ function Footer() {
 
           <div>
             <h3>PRODUCT</h3>
-            <a href="#home">Home</a>
-            <a href="#technologies">Technologies</a>
-            <a href="#projects">Projects</a>
+            <a href="">Home</a>
+            <a href="">Technologies</a>
+            <a href="">Projects</a>
           </div>
 
           <div>
             <h3>COMPANY</h3>
-            <a href="#about">About</a>
-            <a href="#contact">Contact</a>
-            <a href="#contact">Careers</a>
+            <a href="">About</a>
+            <a href="">Contact</a>
+            <a href="">Careers</a>
           </div>
 
           <div>
             <h3>LEGAL</h3>
-            <a href="#contact">Privacy Policy</a>
-            <a href="#contact">Terms of Service</a>
+            <a href="">Privacy Policy</a>
+            <a href="">Terms of Service</a>
           </div>
         </div>
 
@@ -401,8 +401,8 @@ function Footer() {
           <span>© 2026 Dev Stack. All rights reserved.</span>
 
           <div>
-            <a href="#contact">Privacy</a>
-            <a href="#contact">Terms</a>
+            <a href="">Privacy</a>
+            <a href="">Terms</a>
           </div>
         </div>
       </div>
