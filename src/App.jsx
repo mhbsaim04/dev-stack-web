@@ -124,7 +124,7 @@ function Hero() {
               Explore Technologies
             </a>
 
-            <a className="btn btn-outline" href="#about">
+            <a className="btn btn-outline" href="">
               Learn More
             </a>
           </div>
